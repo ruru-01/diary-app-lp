@@ -11,10 +11,10 @@ export default function Hero() {
         </p>
 
         <div className="flex flex-col sm:flex-row gap-8 justify-center items-center">
-          <button className="px-10 py-3 bg-slate-900 text-white text-sm font-medium tracking-wider hover:bg-slate-800 transition-all duration-300">
+          <button className="px-10 py-3 bg-slate-900 text-white text-sm font-medium tracking-widest rounded-md hover:bg-slate-800 transition-all duration-300">
             はじめる
           </button>
-          <button className="text-sm font-medium tracking-wider text-slate-400 hover:text-slate-900 transition-all duration-300">
+          <button className="text-sm font-medium tracking-widest text-slate-400 hover:text-slate-900 transition-all duration-300">
             もっと詳しく —
           </button>
         </div>
