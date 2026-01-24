@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <nav className="sticky top-0 z-50 w-full px-6 py-4 bg-[#FCFCFC] border-t border-slate-100">
+    <nav className="sticky top-0 z-50 w-full px-6 py-4 bg-[#F9F8F6]/80 backdrop-blur-md shadow-sm">
       <div className="max-w-5xl mx-auto flex justify-between items-center">
         <h1 className="font-serif text-lg tracking-tighter text-slate-900">
           Diary

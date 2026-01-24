@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="py-20 px-6 bg-[#FCFCFC] border-t border-slate-100">
+    <footer className="py-20 px-6 bg-[#F9F8F6] shadow-[0_-4px_20px_rgba(0,0,0,0.03)]">
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-start gap-12">
         <div className="space-y-4">
           <h2 className="text-lg font-medium tracking-tighter text-slate-900">
